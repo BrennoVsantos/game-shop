@@ -22,7 +22,7 @@ Acesse facilmente todos os itens salvos na sua biblioteca e visualize os jogos a
 ### Todos os Jogos
 Explore nossa vasta coleção de jogos. Utilize filtros por categoria ou faça pesquisas por nome para encontrar exatamente o que você procura.
 
-### Screeshot
+### Screenshot - tela inicial
 
 <img alt="Tela Inicial da Game Shop" src="assets/ScreenShotBGH.png">
 
